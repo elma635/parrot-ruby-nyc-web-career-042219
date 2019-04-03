@@ -5,5 +5,3 @@ def parrot (default = "Squawk!")
   {"Pretty Bird!"}
 
 end
-
-parrot
