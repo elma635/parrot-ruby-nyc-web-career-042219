@@ -6,5 +6,5 @@ def parrot (default = "Squawk!")
 end
 
 def parrot ("Pretty Bird!")
-puts "Pretty Bird!"
+  puts "Pretty Bird!"
 end
