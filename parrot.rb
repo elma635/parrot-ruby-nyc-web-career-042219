@@ -4,3 +4,7 @@ def parrot (default = "Squawk!")
   puts "#{default}"
   puts "Pretty Bird!"
 end
+
+def parrot ("Pretty Bird!")
+
+end
