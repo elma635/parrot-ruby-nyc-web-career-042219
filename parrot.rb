@@ -2,9 +2,8 @@
 # returns the phrase
 def parrot (default = "Squawk!")
   puts "#{default}"
-
 end
 
 def parrot ("Pretty Bird!")
-  puts "Pretty Bird!"
+   puts "Pretty Bird!"
 end
