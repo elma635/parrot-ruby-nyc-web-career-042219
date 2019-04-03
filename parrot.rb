@@ -3,3 +3,5 @@
 def parrot (default = "Squawk!")
   default
 end
+
+default 
